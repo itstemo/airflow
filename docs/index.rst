@@ -98,3 +98,13 @@ Content
     faq
     macros
     _api/index
+    privacy_notice
+
+.. toctree::
+    :maxdepth: 1
+    :caption: References
+
+    CLI <cli-ref>
+    Macros <macros-ref>
+    Python API <_api/index>
+    REST API <rest-api-ref>
